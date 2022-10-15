@@ -1,0 +1,6 @@
+label{ 
+	margin-right:0.5em;
+}
+input[type=text]:focus,textarea:focus, input[type=date]:focus,input[type=radio]:focus{
+	background-color:#CCC;
+}
